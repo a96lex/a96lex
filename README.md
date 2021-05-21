@@ -6,7 +6,7 @@ I'm Alex. I am a chemical engineering graduate and I am studying a Master's degr
 
 - 👨‍💻 I'm currently working on **frontend** and **backend** aplications, using **React** and **aws**.
 
-- 🌱 I'm currently learning about **good coding practices** and advanced Python programming.
+- 🌱 I'm currently learning about **good coding practices**.
 
 - 📫 You can reach me on [**LinkedIn**](https://www.linkedin.com/in/alex-pf/)
 

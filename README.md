@@ -1,24 +1,23 @@
-## Hi there 👋
+## Hi, I'm Alex 👋
 
-I'm Alex, and I am a Software Engineer.
+Software engineer and CTO at [Stuveo](https://stuveo.com). I build LLM-powered products end to end
+(AI agents, MCP tooling, data pipelines and fast ML inference) in Python and TypeScript.
 
-Feel free to reach out on my repos or on my [linkedin](https://www.linkedin.com/in/a96lex/)
+🌐 [a96lex.com](https://a96lex.com) · 💼 [LinkedIn](https://www.linkedin.com/in/a96lex/)
 
+### What I've worked on
+- **Stuveo (edtech):** lead engineer and CTO. Built Gabi, an AI academic advisor with tool calling,
+  memory and evals, and a data pipeline covering 39k degrees and 900k+ subjects.
+- **Freelance:** AI-native chat platform, VS Code assistant and an open-source MCP server for a
+  scientific AI startup; ~2x faster computer-vision pipeline for an inventory platform.
+- **UNITH:** real-time AI video chat. 5x inference throughput with Triton + TensorRT, load-tested
+  to 10k concurrent conversations, grew the team from 2 to 8.
 
-### Some of my projects
+### Stack
+Python · TypeScript · FastAPI · Next.js · tRPC · Prisma · PostgreSQL · PyTorch · AWS · GCP · Kubernetes · Terraform
 
-[Unnamed Tank Game](https://alex-pf.itch.io/tank-game/)
-
-- Video game concept using python which runs in the browser using the WASM python
-interpreter. works on desktop environment. [Repository](https://github.com/a96lex/pygame-tank-game)
-
-[Physarium simulation](http://scom-physarum-2021.s3-website-eu-west-1.amazonaws.com/)
-
-- Project that showcases interaction between agents, forming interesiting patterns.
-University project. [Repository](https://github.com/a96lex/physarum-simulation)
-
-[A particle in a fractal potential](http://icc3.s3-website-eu-west-1.amazonaws.com/)
-
-- Visualization tool for the solution of the Schroedinger equation in a Sierpinsky
-Carpet shaped potential. Over 14k solutions available. [Repository](https://github.com/a96lex/fractal-potential-2d-frontend)
-
+### Side projects
+- [Ferment](https://recipe.a96lex.com): visual fermenting guide (Svelte)
+- [Tank game](https://alex-pf.itch.io/tank-game/): Python game running in the browser via WebAssembly ([repo](https://github.com/a96lex/pygame-tank-game))
+- [Slime mold simulation](https://github.com/a96lex/physarum-simulation): agent-based Physarum simulation
+- [Wordle breaker](https://github.com/a96lex/wordle-breaker): CLI Wordle solver
